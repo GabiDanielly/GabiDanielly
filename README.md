@@ -3,7 +3,7 @@
 
 ### **Sobre mim**
 
-Estudante de Ciência da Computação,  apaixonada por tecnologia, inovação, entender como as coisas funcionam por dentro...
+Estudante de Ciência da Computação,  apaixonada por tecnologia, inovação e entender como as coisas funcionam por dentro...
 Estou em busca de primeiras experiências na área / projetos para colaborar.
 
 ### **Projetos em destaque**
